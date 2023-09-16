@@ -1,0 +1,4 @@
+arduino-libraries/ArduinoRS485@^1.0.5
+arduino-libraries/ArduinoModbus@^1.0.8
+paulstoffregen/TimerOne@^1.1.1
+feilipu/FreeRTOS@^10.5.0-1
